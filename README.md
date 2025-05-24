@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammed Mishal 👋</h1>
 
-🎓 Final year ECE student at IIITDM Kancheepuram  
+🎓 Electronics and Communication Engineering Graduate from Government Engineering College, Kozhikode, Kerala, India.  
 💻 Aspiring Software Engineer with a passion for coding and systems  
 📈 Currently solving Neetcode 75 in Python (✅ 27/75)  
 🛠️ Exploring full stack development and system design  
