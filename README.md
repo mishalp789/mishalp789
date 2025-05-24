@@ -33,8 +33,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 Email: [your email]
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 📧 Email: mishalp789@gmail.com
+- 🔗 [LinkedIn Profile]www.linkedin.com/in/muhammed-mishal-
 
 ---
 
