@@ -46,7 +46,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishalp789&show_icons=true&theme=radical" alt="mishalp789 GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mishalp789&show_icons=true&theme=radical" alt="mishalp789's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishalp789&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
