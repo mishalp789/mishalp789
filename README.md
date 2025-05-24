@@ -1,38 +1,41 @@
-<h1 align="center">Hi 👋, I'm Muhammed Mishal</h1>
-<h3 align="center">Aspiring Software Engineer | Python & DSA Enthusiast | ECE Graduate</h3>
+<h1 align="center">Hi, I'm Muhammed Mishal 👋</h1>
+
+🎓 Final year ECE student at IIITDM Kancheepuram  
+💻 Aspiring Software Engineer with a passion for coding and systems  
+📈 Currently solving Neetcode 75 in Python (✅ 27/75)  
+🛠️ Exploring full stack development and system design  
+🌱 Learning something new every day!
 
 ---
 
-🌱 I’m currently working on:
-- Solving **Neetcode 75** in Python (✅ 27/75 problems done)
-- Sharpening Data Structures & Algorithms
-- Building GitHub portfolio projects
+### 💡 What I'm Working On
 
-🎓 Education:
-- Graduated from **Government Engineering College, Kozhikode**
-- Background in **Electronics and Communication Engineering (ECE)**
-
-💻 Tech Skills:
-- Languages: Python, C, JavaScript
-- Tools: Git, GitHub, Linux, VS Code
-- Areas of Interest: Backend Development, Problem Solving, Full Stack
-
-📫 Connect with me:
-- 📧 Email: your.email@example.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🧠 LeetCode: [Your LeetCode profile](https://leetcode.com/YOUR-ID/)
-- 💼 Resume: [Link to your resume]()
-
-🛠️ Projects:
-- [🧠 Neetcode 75 in Python](https://github.com/mishalp789/neetcode-75-python)
-- Add more as you build!
-
-📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishalp789&show_icons=true&theme=radical" alt="stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mishalp789&theme=radical" alt="streak" width="49%"/>
-</p>
+- Neetcode 75 DSA Tracker – 3 problems/day in Python
+- Full Stack Projects (React + Django coming soon)
+- VLSI tools with open-source stack (Magic, Yosys, etc.)
 
 ---
 
-⚡ Fun Fact: I switched from ECE to software and never looked back 🚀
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+![Mishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishalp789&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishalp789&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact Me
+- 📧 Email: [your email]
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+---
+
+> ⚡ Let’s build, learn and grow together 🚀
