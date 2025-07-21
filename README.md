@@ -2,7 +2,7 @@
 
 🎓 Final year ECE student at Government Engineering College, Kozhikode 
 💻 Aspiring Software Engineer with a passion for coding and systems  
-📈 Currently solving Neetcode 75 in Python (✅ 27/75)  
+📈 Currently solving Neetcode 75 in Python (✅ 74/75)  
 🛠️ Exploring full stack development and system design  
 🌱 Learning something new every day!
 
