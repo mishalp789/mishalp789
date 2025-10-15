@@ -44,7 +44,7 @@
 - 🔗 [GitHub Repo](https://github.com/mishalp789/Task-Manager)
 
 #### **AlgoVault – DSA Tracker & Visualizer**
-- **Stack:** Django, Flask, SQLite, HTML/CSS, JavaScript  
+- **Stack:** Flask, SQLite, HTML/CSS, JavaScript  
 - Platform to track problem-solving progress and visualize coding activity  
 - **Features:** User login, tagging, leaderboard, progress visualization  
 - 🔗 [GitHub Repo](https://github.com/mishalp789/AlgoVault---DSA-tracker)
