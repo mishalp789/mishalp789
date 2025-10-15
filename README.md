@@ -33,34 +33,33 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-
 ---
 
 ### 🛠️ Projects
 
-#### **TaskManager – Full-Stack Web Application**
-- **Stack:** Java, Spring Boot, React, MongoDB, Bootstrap  
-- Full-stack Task Manager web application to create, view, update, and delete tasks  
-- **Features:** Add tasks with title, description, and status; view all tasks; toggle completion; delete tasks; responsive UI  
-- 🔗 [GitHub Repo](https://github.com/mishalp789/taskmanager)  
+#### **TaskManager Pro – Full-Stack Web Application**
+- **Stack:** Java, Spring Boot, React, PostgreSQL  
+- A comprehensive full-stack Task Manager to create, update, and track tasks efficiently  
+- **Features:** Secure authentication, task CRUD, priority & status filters, responsive UI  
+- 🔗 [GitHub Repo](https://github.com/mishalp789/Task-Manager)
 
-#### **AlgoVault – Problem Tracker & Visualizer**
+#### **AlgoVault – DSA Tracker & Visualizer**
 - **Stack:** Django, Flask, SQLite, HTML/CSS, JavaScript  
-- Web app to track problem-solving progress and visualize user activity  
-- Features: User authentication, problem tagging, leaderboard, CSV export  
-- 🔗 [GitHub Repo](https://github.com/mishalp789/algo-vault)  
+- Platform to track problem-solving progress and visualize coding activity  
+- **Features:** User login, tagging, leaderboard, progress visualization  
+- 🔗 [GitHub Repo](https://github.com/mishalp789/AlgoVault---DSA-tracker)
 
 #### **IntelliHire – AI Resume Screening Tool**
 - **Stack:** Django, PostgreSQL, Tailwind CSS, OpenAI API  
-- AI tool to analyze resumes and match skills with job descriptions  
-- Features: Resume parsing, skill gap detection, recruiter dashboard  
-- 🔗 [GitHub Repo](https://github.com/mishalp789/intellihire-ai)  
+- AI-powered tool for resume analysis and job skill matching  
+- **Features:** Resume parsing, skill gap insights, recruiter dashboard  
+- 🔗 [GitHub Repo](https://github.com/mishalp789/Intellihire-AI-Resume-Screener-)
 
 #### **Smart Library Management System**
 - **Stack:** Python, Arduino, RFID  
-- Automates book check-in/out with RFID and Python interface  
-- Demonstrates integration of hardware and software in real-world applications  
-- 🔗 [GitHub Repo](https://github.com/mishalp789/smart-library-rfid)  
+- Automated book check-in/out system using RFID tags and Python backend  
+- Demonstrates hardware-software integration for real-world applications  
+- 🔗 [GitHub Repo](https://github.com/mishalp789/Smart-Library-Management-System)
 
 ---
 
